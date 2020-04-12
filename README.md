@@ -1,2 +1,4 @@
 # Frequency-Wave-Generator-Proteus
 This is a Proteus simulation of Frequency Wave Generator using Microprocessor 8086.
+## Improvisation:
+You can improvise the code and design files by including interrupts to display accurate waves for higher frequencies (>5k Hz). This can reduce the time for which RAM is idle and thereby cause less delays.
